@@ -1,4 +1,4 @@
-exports.getGames = (req, res) => { 
+exports.getGames = (req, res) => {
     const games = [
         { id: 1, nama: "Resident Evil 4", genre: "Action, Horror" },
         { id: 2, nama: "Genshin Impact", genre: "Action, Adventure" },
