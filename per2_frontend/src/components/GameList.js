@@ -26,7 +26,7 @@ error));
             </li> 
           )) 
         ) : ( 
-          <p>Data tidak tersedia</p> 
+           <p>Data tidak tersedia</p> 
         )} 
       </ul> 
     </div> 
